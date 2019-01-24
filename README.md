@@ -58,6 +58,6 @@ GPL-3.0 © [Yadickson Soto](https://github.com/yadickson)
 
 EPL-2.0 © [Jaspic Project](https://github.com/eclipse-ee4j/jaspic)
 
-[travis-image]: https://api.travis-ci.org/yadickson/jaspic-debs.svg?branch=buster
+[travis-image]: https://api.travis-ci.org/yadickson/jaspic-debs.svg?branch=master
 [travis-url]: https://travis-ci.org/yadickson/jaspic-debs
 
