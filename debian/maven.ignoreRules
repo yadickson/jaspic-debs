@@ -1,0 +1,5 @@
+
+org.apache.felix maven-bundle-plugin * * * *
+org.apache.maven.plugins maven-javadoc-plugin * * * *
+org.codehaus.mojo findbugs-maven-plugin * * * *
+org.glassfish.build spec-version-maven-plugin * * * *
